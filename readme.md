@@ -1,4 +1,4 @@
-Hello, Git!
+Welcome to Git!
 
-- i'm adding this froom ' feate
-- rire brnahc'
+-This is coming from' dev-adrian'
+- i'm adding this from 'feature branch'
