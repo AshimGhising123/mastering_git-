@@ -1,4 +1,4 @@
 Welcome to Git!
 
--This is coming from' dev-adrian'
-- i'm adding this from 'feature branch'
+-Yo, johnny here
+-I'm adding this from'feature-branch'
